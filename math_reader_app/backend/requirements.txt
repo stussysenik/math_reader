@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+chromadb
+ollama
+pydantic
+python-multipart
+websockets
